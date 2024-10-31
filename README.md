@@ -18,7 +18,7 @@ The objective of QuizMe is to develop a Python CLI application that:
 5.Adaptive Review System (ARS) Library
 
 6.Central to the project is the Adaptive Review System (ARS) library, which supports the adaptive learning model. ARS organizes questions into a spaced repetition 
-  system with five levels (boxes):
+   system with five levels (boxes):
 
 Box 0: For missed questions, reviewed after 60 seconds.
 
