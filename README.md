@@ -1,8 +1,10 @@
 # QuizMe-CLI
-Project Overview
+Project Overview:
+
 The QuizMe project is a Command Line Interface (CLI) application that provides an interactive quiz experience using an adaptive review system. Designed to help users reinforce their knowledge effectively, QuizMe adapts question order based on user performance, employing a hybrid Leitner system to focus on challenging topics and aid retention.
 
-Objectives
+Objectives:
+
 The objective of QuizMe is to develop a Python CLI application that:
 
 Loads quiz questions from a JSON file.
